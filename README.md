@@ -1,1 +1,1 @@
-# grayjay-spotify
+# spotify-plugin
